@@ -20,5 +20,5 @@ Week 2
 
 | Day        | Leetcode URL        | Solution URL           |
 | ------------- | ------------- |:-------------:|
-|Day8| [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [Solution](https://github.com/yogesh-io/may-leetCoding-challenge/blob/master/Week%202/8-CheckIfItIsAStraightLine.cpp) |
+|Day8| [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week2/8-CheckIfItIsAStraightLine.cpp) |
 
