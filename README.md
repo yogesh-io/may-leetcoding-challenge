@@ -1,5 +1,22 @@
 # may-leetcoding-challenge
 
-Day 1- First Bad Version
+Week 1
+------
 
-Day 2 - Jewels and Stones
+
+| Day        | Leetcode URL        | Solution URL           |
+| ------------- | ------------- |:-------------:|
+|Day 1| [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/1-FirstBadVersion.cpp) |
+|Day 2| [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)  | [Solution]https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/2-JewelsAndStones.cpp) |
+|Day 3| [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/3-RansomNote.cpp) |
+|Day 4| [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/4-NumberComplement.cpp) |
+|Day 5| [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/5-FirstUniqueCharacterInAString.cpp) |
+|Day 6| [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/6-MajorityElement.cpp) |
+|Day 7| [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/7-CousinsInBinaryTree.cpp) |
+
+Week 2
+------
+
+| Day        | Leetcode URL        | Solution URL           |
+| ------------- | ------------- |:-------------:|
+| Day  8| [Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [Solution](https://github.com/yogesh-io/may-leetcoding-challenge/blob/master/week1/8-CheckIfItIsaStraightLine.cpp) |
